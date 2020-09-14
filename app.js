@@ -1,2 +1,2 @@
-"usestrict"
+"use strict"
 console.log("Hello World");
